@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/tanababy/typescript-for-javascrpt-develop#readme",
   "devDependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "ts-node": "^8.5.4",
     "ts-node-dev": "^1.0.0-pre.44",
     "typescript": "^3.8.3"
